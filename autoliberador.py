@@ -1,4 +1,4 @@
-version_actual = "4.9"
+version_actual = "6.7"
 import colorama
 from colorama import Fore, Style, Back
 import time
